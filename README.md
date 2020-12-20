@@ -24,7 +24,7 @@
 ## What am I looking at? 🤔
 
 
-**This repo is currently de-facto abondoned**
+**This repo is currently de-facto abandoned**
 
 This repository was intended to hold Docker images to facilitate 
 development on/for FreeSewing.
@@ -87,7 +87,7 @@ See [the license file](https://github.com/freesewing/freesewing/blob/develop/LIC
 
 ## Where to get help 🤯
 
-Our [chatrooms on Discord](https://discord.freesewing.org) are the best place to ask questions,
+Our [chat rooms on Discord](https://discord.freesewing.org) are the best place to ask questions,
 share your feedback, or just hang out.
 
 If you want to report a problem, please [create an issue](https://github.com/freesewing/freesewing/issues/new).
